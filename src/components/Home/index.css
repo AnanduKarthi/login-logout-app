@@ -1,0 +1,16 @@
+.main-container {
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 160px;
+  border-radius: 10px;
+}
